@@ -288,7 +288,7 @@ caption {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   color: #6c757d;
-  text-align: left;
+  text-align: right;
 }
 
 th {
@@ -3491,7 +3491,7 @@ textarea.form-control-lg {
   margin: 0;
   font-size: 1rem;
   color: #212529;
-  text-align: left;
+  text-align: right;
   list-style: none;
   background-color: #fff;
   background-clip: padding-box;
@@ -4442,7 +4442,7 @@ textarea.form-control-lg {
   padding: 1rem 1.25rem;
   font-size: 1rem;
   color: #212529;
-  text-align: left;
+  text-align: right;
   background-color: #fff;
   border: 0;
   border-radius: 0;
@@ -5535,7 +5535,7 @@ textarea.form-control-lg {
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
-  text-align: left;
+  text-align: right;
   text-align: start;
   text-decoration: none;
   text-shadow: none;
@@ -5637,7 +5637,7 @@ textarea.form-control-lg {
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
-  text-align: left;
+  text-align: right;
   text-align: start;
   text-decoration: none;
   text-shadow: none;
@@ -7306,11 +7306,11 @@ textarea.form-control-lg {
 }
 
 .text-start {
-  text-align: left !important;
+  text-align: right !important;
 }
 
 .text-end {
-  text-align: right !important;
+  text-align: left !important;
 }
 
 .text-center {
@@ -8184,11 +8184,11 @@ textarea.form-control-lg {
   }
 
   .text-sm-start {
-    text-align: left !important;
+    text-align: right !important;
   }
 
   .text-sm-end {
-    text-align: right !important;
+    text-align: left  !important;
   }
 
   .text-sm-center {
@@ -8835,11 +8835,11 @@ textarea.form-control-lg {
   }
 
   .text-md-start {
-    text-align: left !important;
+    text-align: right !important;
   }
 
   .text-md-end {
-    text-align: right !important;
+    text-align: left !important;
   }
 
   .text-md-center {
@@ -9486,11 +9486,11 @@ textarea.form-control-lg {
   }
 
   .text-lg-start {
-    text-align: left !important;
+    text-align: right !important;
   }
 
   .text-lg-end {
-    text-align: right !important;
+    text-align: left !important;
   }
 
   .text-lg-center {
@@ -10137,11 +10137,11 @@ textarea.form-control-lg {
   }
 
   .text-xl-start {
-    text-align: left !important;
+    text-align: right !important;
   }
 
   .text-xl-end {
-    text-align: right !important;
+    text-align: left !important;
   }
 
   .text-xl-center {
@@ -10788,11 +10788,11 @@ textarea.form-control-lg {
   }
 
   .text-xxl-start {
-    text-align: left !important;
+    text-align: right !important;
   }
 
   .text-xxl-end {
-    text-align: right !important;
+    text-align: left !important;
   }
 
   .text-xxl-center {
