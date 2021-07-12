@@ -380,7 +380,7 @@ fieldset {
 }
 
 legend {
-  float: left;
+  float: Right;
   width: 100%;
   padding: 0;
   margin-bottom: 0.5rem;
@@ -2409,7 +2409,7 @@ textarea.form-control-lg {
   margin-bottom: 0.125rem;
 }
 .form-check .form-check-input {
-  float: left;
+  float: Right;
   margin-left: -1.5em;
 }
 
@@ -4555,7 +4555,7 @@ textarea.form-control-lg {
   padding-left: 0.5rem;
 }
 .breadcrumb-item + .breadcrumb-item::before {
-  float: left;
+  float: Right;
   padding-right: 0.5rem;
   color: #6c757d;
   content: var(--bs-breadcrumb-divider, "/") /* rtl: var(--bs-breadcrumb-divider, "/") */;
@@ -5779,7 +5779,7 @@ textarea.form-control-lg {
 .carousel-item {
   position: relative;
   display: none;
-  float: left;
+  float: Right;
   width: 100%;
   margin-right: -100%;
   -webkit-backface-visibility: hidden;
